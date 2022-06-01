@@ -1,0 +1,15 @@
+data/
+tmp/
+*.py[cod]
+*.csv
+*.png
+*.log
+*.mid
+*.svg
+*.smt2
+*.odg
+.~lock*
+!example/*.csv
+!example/*.mid
+!example/*.svg
+!example/*.jpg
